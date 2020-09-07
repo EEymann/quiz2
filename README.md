@@ -1,4 +1,4 @@
-# _Quiz with Arrays_
+# _Quiz: Store Objects in Arrays_
 
 #### _This program is a quiz app built with objects stored in an array. It is an improvement on my quiz1 app. September 2020_
 
